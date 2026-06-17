@@ -19,3 +19,6 @@ chmod +x "Herramienta enumeracion AD.sh"
 
 # Ejecutar el script
 ./"Herramienta enumeracion AD.sh"
+
+Descargo de Responsabilidad
+Este script ha sido desarrollado exclusivamente con fines educativos y de auditoría de seguridad autorizada. El uso de esta herramienta contra objetivos sin el consentimiento previo y por escrito de los propietarios es ilegal. El autor no se hace responsable del mal uso o de los daños causados por este software.
