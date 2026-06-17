@@ -1,4 +1,4 @@
-# Herramienta Enumeracion AD
+# Herramienta Enumeración AD
 Script en Bash diseñado para la automatización del descubrimiento de hosts activos en la red local y la enumeración de puertos clave (como SMB y Active Directory) de forma eficiente y sin el uso de ping (ICMP).
 
 ## Características Principales
@@ -19,10 +19,6 @@ chmod +x "Herramienta enumeracion AD.sh"
 
 # Ejecutar el script
 ./"Herramienta enumeracion AD.sh"
-
-
----
-
+```
 ## Descargo de Responsabilidad
-
-> Este script ha sido desarrollado exclusivamente con fines educativos y de auditoría de seguridad autorizada. El uso de esta herramienta contra objetivos sin el consentimiento previo y por escrito de los propietarios es ilegal. El autor no se hace responsable del mal uso o de los daños causados por este software.
+Este script ha sido desarrollado exclusivamente con fines educativos y de auditoría de seguridad autorizada. El uso de esta herramienta contra objetivos sin el consentimiento previo y por escrito de los propietarios es ilegal. El autor no se hace responsable del mal uso o de los daños causados por este software.
